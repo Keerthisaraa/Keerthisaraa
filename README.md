@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+## I'm currently,
+- 📕 doing my Masters in Computer Science @University of Oklahoma
+- 🔭 working on improving my coding skills across languages
+- 🌱 in the process of learning Full stack development
 
-<!--
-**Keerthisaraa/Keerthisaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I enjoy,
+- 👧🏽 Promoting Women in Computer Science
+- 💬 Ask me about ***Women in Tech***
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal Info:
+- 📫 How to reach me: keerthisara@ou.edu
+- 😄 Pronouns: She / Her / Hers
+- ⚡ Fun fact: I am a huge plant nerd and I have 75 plants in my 870 sqft apartment
