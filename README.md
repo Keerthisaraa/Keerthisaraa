@@ -1,6 +1,7 @@
 # Hi there 👋
 ## I'm currently,
-- 📕 doing my Masters in Computer Science @University of Oklahoma
+-  Working as a Software Engineer II @ Spiers New Technologies
+- 📕 Masters in Computer Science @University of Oklahoma
 - 🔭 working on improving my coding skills across languages
 - 🌱 in the process of learning Full stack development
 
